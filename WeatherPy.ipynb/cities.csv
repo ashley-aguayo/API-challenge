@@ -1,0 +1,8 @@
+City,LAT,LON,Weather,Desription,Temp,Temp Feels,Temp Min,Temp Max,Pressure,Humidity,Visibility,Clouds,Wind Speed
+Ushuaia,-54.8,-68.3,Clouds,broken clouds,279.15,276.47,279.15,279.15,991,87,10000,75,3.6
+Thompson,55.7435,-97.8558,Clouds,scattered clouds,282.15,279.24,282.15,282.15,999,49,10000,40,5.66
+Pathein,16.7833,94.7333,Clouds,broken clouds,301.88,304.64,301.88,301.88,1010,66,10000,65,2.73
+Cape Town,-33.9258,18.4232,Rain,heavy intensity rain,290.04,290.08,289.82,290.37,1009,88,6000,90,6.17
+Alice Springs,-23.7,133.8833,Clear,clear sky,294.15,293.04,294.15,294.15,1024,28,10000,0,7.2
+Williams Lake,52.1415,-122.1445,Clouds,few clouds,288.15,286.1,288.15,288.15,1005,15,10000,20,5.14
+Laas,46.6166,10.7002,Clouds,overcast clouds,283.13,283.13,281.48,284.82,926,71,203,100,0.88
